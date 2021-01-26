@@ -15,8 +15,7 @@ For this project, I chose to hard-code a mad lib string I found from Google imag
 
 ## Technologies
 - Javascript (ES2016)
-- Command Line
-- Git
+- Node.js
 
 ## Project status
 Complete
